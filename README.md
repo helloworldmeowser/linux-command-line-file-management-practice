@@ -31,6 +31,7 @@ Bash
 
 <img width="396" height="150" alt="image" src="https://github.com/user-attachments/assets/421b349e-9f14-4d99-bc3d-8ae504b3150d" />
 
+
 Step 2: enter Zoo Folder
 
 Bash
@@ -38,6 +39,7 @@ Bash
 - pwd
 
 <img width="436" height="103" alt="image" src="https://github.com/user-attachments/assets/46ab6ae5-84ae-4956-a1a1-bebaeceb9f8a" />
+
 
 Step 3: Create Animal Sections
 
@@ -48,12 +50,14 @@ Bash
 <img width="355" height="264" alt="image" src="https://github.com/user-attachments/assets/e8c87fe5-75eb-4a6c-a3f7-75de80186fe5" />
 <img width="399" height="100" alt="image" src="https://github.com/user-attachments/assets/62f95aaa-18bf-4640-874d-ded77e52b464" />
 
+
 Step 4: Verify Structure
 
 Bash 
 - Tree
 
 <img width="355" height="106" alt="image" src="https://github.com/user-attachments/assets/e2eb048d-b86f-4d42-b9f6-5ded3a84d1d9" />
+
 
 Step 5: Create Animal Files
 
@@ -71,6 +75,7 @@ Bash
 - echo "Komodo Dragon" > reptiles/Komodo_Dragon.txt
 
 <img width="465" height="223" alt="image" src="https://github.com/user-attachments/assets/26834fa6-d372-4d8e-a058-a6ab3773bb0a" />
+
 
 Final 
 
